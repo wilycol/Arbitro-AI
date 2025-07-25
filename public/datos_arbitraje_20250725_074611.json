@@ -1,0 +1,72 @@
+[
+  {
+    "Precio": 4005.0,
+    "Método de Pago": "Bancolombia S.A",
+    "Reputación": "97.00%",
+    "Límite Mín": "500000",
+    "Límite Máx": "8000000"
+  },
+  {
+    "Precio": 4009.99,
+    "Método de Pago": "Bancolombia S.A",
+    "Reputación": "94.70%",
+    "Límite Mín": "860000",
+    "Límite Máx": "865000"
+  },
+  {
+    "Precio": 4010.0,
+    "Método de Pago": "Bancolombia S.A",
+    "Reputación": "92.30%",
+    "Límite Mín": "500000",
+    "Límite Máx": "11257000"
+  },
+  {
+    "Precio": 4017.0,
+    "Método de Pago": "Nequi",
+    "Reputación": "88.50%",
+    "Límite Mín": "40000",
+    "Límite Máx": "50000"
+  },
+  {
+    "Precio": 4020.0,
+    "Método de Pago": "Davivienda S.A",
+    "Reputación": "100.00%",
+    "Límite Mín": "500000",
+    "Límite Máx": "4000000"
+  },
+  {
+    "Precio": 4020.0,
+    "Método de Pago": "Nequi",
+    "Reputación": "96.40%",
+    "Límite Mín": "45000",
+    "Límite Máx": "4265581"
+  },
+  {
+    "Precio": 4022.0,
+    "Método de Pago": "Bancolombia S.A",
+    "Reputación": "83.40%",
+    "Límite Mín": "600000",
+    "Límite Máx": "7000000"
+  },
+  {
+    "Precio": 4030.0,
+    "Método de Pago": "Nequi, Bank Transfer",
+    "Reputación": "96.50%",
+    "Límite Mín": "100000",
+    "Límite Máx": "400000"
+  },
+  {
+    "Precio": 4030.2,
+    "Método de Pago": "Bancolombia S.A",
+    "Reputación": "99.70%",
+    "Límite Mín": "60000",
+    "Límite Máx": "13000000"
+  },
+  {
+    "Precio": 4034.99,
+    "Método de Pago": "Nequi",
+    "Reputación": "96.30%",
+    "Límite Mín": "33600",
+    "Límite Máx": "2500000"
+  }
+]
