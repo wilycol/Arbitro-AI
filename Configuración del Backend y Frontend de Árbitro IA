@@ -1,0 +1,87 @@
+# Configuración del Backend y Frontend de Árbitro IA
+
+Este documento contiene todos los enlaces importantes relacionados con la arquitectura del proyecto Árbitro IA, junto con una descripción clara y optimizada para facilitar el mantenimiento y comprensión del sistema.
+
+---
+
+## 🌐 Google AI Studio
+
+**URL:** [Google AI Studio - Proyecto principal](https://aistudio.google.com/apps/drive/1Q8v0iDbUFMnXOTgG_gMK2MVp9rBnrlNH?showPreview=true&showCode=true&showAssistant=true)
+
+**Descripción:**  
+Plataforma donde se está desarrollando la lógica visual y funcional del sistema Árbitro IA. Aquí se implementan las reglas de presentación, alarmas, matching visual y los módulos inteligentes conectados al backend.
+
+---
+
+## 📁 Archivo JSON en Vercel
+
+**URL:** [datos_arbitraje.json - Vista pública en Vercel](https://arbitro-ai.vercel.app/datos_arbitraje.json)
+
+**Descripción:**  
+Este es el archivo JSON que alimenta en tiempo real la aplicación Árbitro IA. Se actualiza automáticamente desde GitHub mediante GitHub Actions y representa la salida principal del backend proxy.
+
+---
+
+## ⚙️ Google Colab - Script de Generación de JSON
+
+**URL:** [Google Colab - Script de Generación](https://colab.research.google.com/drive/1K-3-pFsTK55t7TXVOBU01P3QyyCg-Ksy#scrollTo=8bc67b45)
+
+**Descripción:**  
+Script que simula o genera el archivo `datos_arbitraje.json` a partir de datos reales de Binance. Esta es la fuente principal de los datos actualizados, que luego se suben a GitHub automáticamente.
+
+---
+
+## 🔧 Vercel - Configuración del Frontend
+
+**URL:** [Configuración en Vercel del archivo datos_arbitraje.json](https://vercel.com/willy-devs-projects/arbitro-ai/63mMZEu6TPttaacWRmMqC1u5bxwM/source?f=out%2FPublic%2Fdatos_arbitraje.json)
+
+**Descripción:**  
+Vista de configuración del proyecto en Vercel. Aquí puedes ver los archivos desplegados y la lógica que permite a la app en producción acceder al JSON de datos arbitrales.
+
+---
+
+## 🚦 Render - Logs del Proxy Backend
+
+**URL:** [Logs del servidor Render](https://dashboard.render.com/web/srv-d21ftjngi27c73dsbac0/events)
+
+**Descripción:**  
+Historial de eventos y logs del servidor backend en Render, que actúa como intermediario para sortear errores CORS y servir datos filtrados desde Binance a la app.
+
+---
+
+## 🗂 GitHub - Repositorio Principal
+
+**URL:** [Arbitro-AI (principal)](https://github.com/wilycol/Arbitro-AI)
+
+**Descripción:**  
+Repositorio que contiene el frontend del sistema, la estructura visual y los datos públicos como `datos_arbitraje.json`. Se sincroniza con Vercel para el despliegue.
+
+---
+
+## 🛡 GitHub - Repositorio del Proxy
+
+**URL:** [Arbitro-AI-Proxi (servidor proxy)](https://github.com/wilycol/Arbitro-AI-Proxi)
+
+**Descripción:**  
+Repositorio que contiene el código del backend (proxy) implementado en Node.js o Python. Es el responsable de extraer, filtrar y servir los datos desde las APIs de Binance, OKX y Bybit.
+
+---
+
+## 🔗 API Proxy en Render
+
+**URL:** [Endpoint del Proxy en Render](https://arbitro-ai-proxi.onrender.com/)
+
+**Descripción:**  
+URL pública donde vive el backend proxy. La aplicación Árbitro IA se conecta a esta dirección para obtener datos en tiempo real sin errores CORS.
+
+---
+
+## ✅ Recomendaciones
+
+- Todos los sistemas están integrados para sincronizar datos entre sí.
+- Se recomienda mantener este documento actualizado si se agregan nuevas plataformas, APIs, o rutas clave.
+- Puede agregarse un README principal con resumen del flujo de datos y arquitectura.
+
+---
+
+📌 Última actualización automática: `2025-07-29`
