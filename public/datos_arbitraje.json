@@ -1,72 +1,197 @@
-[
-  {
-    "Precio": 4005.0,
-    "Método de Pago": "Bancolombia S.A",
-    "Reputación": "97.10%",
-    "Límite Mín": "500000",
-    "Límite Máx": "8000000"
-  },
-  {
-    "Precio": 4009.99,
-    "Método de Pago": "Bancolombia S.A",
-    "Reputación": "94.70%",
-    "Límite Mín": "860000",
-    "Límite Máx": "865000"
-  },
-  {
-    "Precio": 4010.0,
-    "Método de Pago": "Bancolombia S.A",
-    "Reputación": "92.30%",
-    "Límite Mín": "500000",
-    "Límite Máx": "11257000"
-  },
-  {
-    "Precio": 4017.0,
-    "Método de Pago": "Nequi",
-    "Reputación": "88.50%",
-    "Límite Mín": "40000",
-    "Límite Máx": "50000"
-  },
-  {
-    "Precio": 4020.0,
-    "Método de Pago": "Davivienda S.A",
-    "Reputación": "100.00%",
-    "Límite Mín": "500000",
-    "Límite Máx": "4000000"
-  },
-  {
-    "Precio": 4020.0,
-    "Método de Pago": "Nequi",
-    "Reputación": "96.40%",
-    "Límite Mín": "45000",
-    "Límite Máx": "4265581"
-  },
-  {
-    "Precio": 4022.0,
-    "Método de Pago": "Bancolombia S.A",
-    "Reputación": "83.40%",
-    "Límite Mín": "600000",
-    "Límite Máx": "7000000"
-  },
-  {
-    "Precio": 4030.2,
-    "Método de Pago": "Bancolombia S.A",
-    "Reputación": "99.70%",
-    "Límite Mín": "60000",
-    "Límite Máx": "13000000"
-  },
-  {
-    "Precio": 4034.99,
-    "Método de Pago": "Nequi",
-    "Reputación": "96.30%",
-    "Límite Mín": "33600",
-    "Límite Máx": "2500000"
-  },
-  {
-    "Precio": 4035.0,
-    "Método de Pago": "Nequi",
-    "Reputación": "97.50%",
-    "Límite Mín": "45000",
-    "Límite Máx": "8000000"
-  }
-]
+{
+    "timestamp": "2025-07-29_02-00-45",
+    "datos": [
+        {
+            "tipo_operacion": "BUY",
+            "cripto": "USDT",
+            "fiat": "COP",
+            "exchange": "Binance",
+            "precio": 4005.0,
+            "min": 500000,
+            "max": 8000000,
+            "nickname": "Desconocido",
+            "metodo_pago": [
+                "Bancolombia S.A"
+            ],
+            "comision_estim": 0.0,
+            "brecha": 0.0,
+            "prioridad": "MEDIA"
+        },
+        {
+            "tipo_operacion": "BUY",
+            "cripto": "USDT",
+            "fiat": "COP",
+            "exchange": "Binance",
+            "precio": 4009.99,
+            "min": 860000,
+            "max": 865000,
+            "nickname": "Desconocido",
+            "metodo_pago": [
+                "Bancolombia S.A"
+            ],
+            "comision_estim": 0.0,
+            "brecha": 0.0,
+            "prioridad": "MEDIA"
+        },
+        {
+            "tipo_operacion": "BUY",
+            "cripto": "USDT",
+            "fiat": "COP",
+            "exchange": "Binance",
+            "precio": 4010.0,
+            "min": 500000,
+            "max": 11257000,
+            "nickname": "Desconocido",
+            "metodo_pago": [
+                "Bancolombia S.A"
+            ],
+            "comision_estim": 0.0,
+            "brecha": 0.0,
+            "prioridad": "MEDIA"
+        },
+        {
+            "tipo_operacion": "BUY",
+            "cripto": "USDT",
+            "fiat": "COP",
+            "exchange": "Binance",
+            "precio": 4017.0,
+            "min": 40000,
+            "max": 50000,
+            "nickname": "Desconocido",
+            "metodo_pago": [
+                "Nequi"
+            ],
+            "comision_estim": 0.0,
+            "brecha": 0.0,
+            "prioridad": "MEDIA"
+        },
+        {
+            "tipo_operacion": "BUY",
+            "cripto": "USDT",
+            "fiat": "COP",
+            "exchange": "Binance",
+            "precio": 4020.0,
+            "min": 500000,
+            "max": 4000000,
+            "nickname": "Desconocido",
+            "metodo_pago": [
+                "Davivienda S.A"
+            ],
+            "comision_estim": 0.0,
+            "brecha": 0.0,
+            "prioridad": "MEDIA"
+        },
+        {
+            "tipo_operacion": "BUY",
+            "cripto": "USDT",
+            "fiat": "COP",
+            "exchange": "Binance",
+            "precio": 4020.0,
+            "min": 45000,
+            "max": 4265581,
+            "nickname": "Desconocido",
+            "metodo_pago": [
+                "Nequi"
+            ],
+            "comision_estim": 0.0,
+            "brecha": 0.0,
+            "prioridad": "MEDIA"
+        },
+        {
+            "tipo_operacion": "BUY",
+            "cripto": "USDT",
+            "fiat": "COP",
+            "exchange": "Binance",
+            "precio": 4022.0,
+            "min": 600000,
+            "max": 7000000,
+            "nickname": "Desconocido",
+            "metodo_pago": [
+                "Bancolombia S.A"
+            ],
+            "comision_estim": 0.0,
+            "brecha": 0.0,
+            "prioridad": "MEDIA"
+        },
+        {
+            "tipo_operacion": "BUY",
+            "cripto": "USDT",
+            "fiat": "COP",
+            "exchange": "Binance",
+            "precio": 4030.2,
+            "min": 60000,
+            "max": 13000000,
+            "nickname": "Desconocido",
+            "metodo_pago": [
+                "Bancolombia S.A"
+            ],
+            "comision_estim": 0.0,
+            "brecha": 0.0,
+            "prioridad": "MEDIA"
+        },
+        {
+            "tipo_operacion": "BUY",
+            "cripto": "USDT",
+            "fiat": "COP",
+            "exchange": "Binance",
+            "precio": 4034.99,
+            "min": 33600,
+            "max": 2500000,
+            "nickname": "Desconocido",
+            "metodo_pago": [
+                "Nequi"
+            ],
+            "comision_estim": 0.0,
+            "brecha": 0.0,
+            "prioridad": "MEDIA"
+        },
+        {
+            "tipo_operacion": "BUY",
+            "cripto": "USDT",
+            "fiat": "COP",
+            "exchange": "Binance",
+            "precio": 4035.0,
+            "min": 45000,
+            "max": 8000000,
+            "nickname": "Desconocido",
+            "metodo_pago": [
+                "Nequi"
+            ],
+            "comision_estim": 0.0,
+            "brecha": 0.0,
+            "prioridad": "MEDIA"
+        },
+        {
+            "tipo_operacion": "SELL",
+            "cripto": "USDT",
+            "fiat": "COP",
+            "exchange": "OKX",
+            "precio": 3925,
+            "min": 50000,
+            "max": 1500000,
+            "nickname": "OKXTrader",
+            "metodo_pago": [
+                "Davivienda"
+            ],
+            "comision_estim": 0.5,
+            "brecha": 1.7,
+            "prioridad": "MEDIA"
+        },
+        {
+            "tipo_operacion": "BUY",
+            "cripto": "USDT",
+            "fiat": "COP",
+            "exchange": "Bybit",
+            "precio": 3875,
+            "min": 200000,
+            "max": 2500000,
+            "nickname": "BybitPro",
+            "metodo_pago": [
+                "Nequi"
+            ],
+            "comision_estim": 0.9,
+            "brecha": 2.1,
+            "prioridad": "ALTA"
+        }
+    ]
+}
