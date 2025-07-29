@@ -1,0 +1,34 @@
+[
+    {
+        "tipo_operacion": "SELL",
+        "cripto": "USDT",
+        "fiat": "COP",
+        "exchange": "OKX",
+        "precio": 3925,
+        "min": 50000,
+        "max": 1500000,
+        "nickname": "OKXTrader",
+        "metodo_pago": [
+            "Davivienda"
+        ],
+        "comision_estim": 0.5,
+        "brecha": 1.7,
+        "prioridad": "MEDIA"
+    },
+    {
+        "tipo_operacion": "BUY",
+        "cripto": "USDT",
+        "fiat": "COP",
+        "exchange": "Bybit",
+        "precio": 3875,
+        "min": 200000,
+        "max": 2500000,
+        "nickname": "BybitPro",
+        "metodo_pago": [
+            "Nequi"
+        ],
+        "comision_estim": 0.9,
+        "brecha": 2.1,
+        "prioridad": "ALTA"
+    }
+]
