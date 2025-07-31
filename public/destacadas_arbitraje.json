@@ -4,7 +4,27 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4082.32,
+    "precio": 4080.0,
+    "min": 100000,
+    "max": 3000000,
+    "nickname": "CambiosLCAVen",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.64,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s1c025f7d5f493fd7a6eaf06eaef999d2",
+    "reputacion": "98.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4080.93,
     "min": 33600,
     "max": 8000000,
     "nickname": "MOOLEX",
@@ -16,7 +36,7 @@
       "Nequi"
     ],
     "operable": true,
-    "comision_aprox": 32.66,
+    "comision_aprox": 32.65,
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=saa0f42cf7e9933f790f93ac59ee6916e",
@@ -82,26 +102,6 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s21fc73709a1639e289b1b75fb13a818a",
     "reputacion": "100.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4085.5,
-    "min": 100000,
-    "max": 84000000,
-    "nickname": "MILWARGOLD-5minutos",
-    "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.68,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s2eda01afb600373fb0d28e79935972e1",
-    "reputacion": "99.40%"
   },
   {
     "exchange": "Binance",
@@ -171,7 +171,7 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4164.62,
+    "precio": 4165.66,
     "min": 100000,
     "max": 800000,
     "nickname": "Moreenterprice",
@@ -183,7 +183,7 @@
       "Scotiabank Colpatria"
     ],
     "operable": true,
-    "comision_aprox": 33.32,
+    "comision_aprox": 33.33,
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf9742d30c083383ca97161c7b4a6f5ab",
