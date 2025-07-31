@@ -24,6 +24,29 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4080.86,
+    "min": 33600,
+    "max": 8000000,
+    "nickname": "MOOLEX",
+    "metodos_pago": [
+      "BBVA",
+      "Scotiabank Colpatria",
+      "Bank Transfer",
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.65,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=saa0f42cf7e9933f790f93ac59ee6916e",
+    "reputacion": "94.40%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4080.91,
     "min": 100000,
     "max": 25000000,
@@ -59,29 +82,6 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s2eda01afb600373fb0d28e79935972e1",
     "reputacion": "99.40%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4081.27,
-    "min": 33600,
-    "max": 8000000,
-    "nickname": "MOOLEX",
-    "metodos_pago": [
-      "BBVA",
-      "Scotiabank Colpatria",
-      "Bank Transfer",
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.65,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=saa0f42cf7e9933f790f93ac59ee6916e",
-    "reputacion": "94.40%"
   },
   {
     "exchange": "Binance",
