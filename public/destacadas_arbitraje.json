@@ -102,6 +102,26 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4127.3,
+    "min": 300000,
+    "max": 20000000,
+    "nickname": "SAS-INVERSIONCRIPTO",
+    "metodos_pago": [
+      "Banco de Bogota",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.02,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s8ab9bf371c9f3cc89ae0ccd84f0be5d3",
+    "reputacion": "96.20%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4127.0,
     "min": 1000000,
     "max": 6000000,
@@ -177,24 +197,5 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s77e0353ae88b3e00a34e32ef6c56d93d",
     "reputacion": "99.60%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4126.95,
-    "min": 300000,
-    "max": 20000000,
-    "nickname": "Change_Cripto",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 33.02,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0f5c2e7c97293a5ea0b75379e05a4ed4",
-    "reputacion": "99.70%"
   }
 ]
