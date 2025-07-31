@@ -70,29 +70,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4095.29,
-    "min": 33600,
-    "max": 5000000,
-    "nickname": "HHBOSS",
-    "metodos_pago": [
-      "Nequi",
-      "Bank Transfer",
-      "Bancolombia S.A",
-      "Daviplata",
-      "Davivienda S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.76,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s899de69a413b398db36e209a45d0887c",
-    "reputacion": "94.50%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4096.01,
     "min": 100000,
     "max": 804000,
@@ -110,26 +87,24 @@
   },
   {
     "exchange": "Binance",
-    "tipo": "SELL",
+    "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4127.87,
-    "min": 200000,
-    "max": 3000000,
-    "nickname": "Puntopay",
+    "precio": 4097.89,
+    "min": 33600,
+    "max": 2581040,
+    "nickname": "Luisafee",
     "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi",
       "Daviplata",
-      "BBVA",
-      "Davivienda S.A"
+      "Nequi",
+      "Bank Transfer"
     ],
     "operable": true,
-    "comision_aprox": 33.02,
+    "comision_aprox": 32.78,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0660c89be67a3f1a9b27acc8c38731ae",
-    "reputacion": "98.20%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s3eb2058bc89b3bd0a77a89ae2babf7b7",
+    "reputacion": "96.70%"
   },
   {
     "exchange": "Binance",
@@ -211,5 +186,24 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sca6ce2d0116f3493a0beb86becf14c74",
     "reputacion": "99.30%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4126.0,
+    "min": 60000,
+    "max": 13000000,
+    "nickname": "alexflorez_usdt",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.01,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sac8980327c5a39ed86c80e1491ca9cb4",
+    "reputacion": "99.80%"
   }
 ]
