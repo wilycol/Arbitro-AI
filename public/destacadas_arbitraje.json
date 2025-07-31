@@ -19,7 +19,7 @@
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s40438a670e553288bcbb12635ad37054",
-    "reputacion": "92.90%"
+    "reputacion": "93.00%"
   },
   {
     "exchange": "Binance",
@@ -65,26 +65,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4110.01,
-    "min": 2000000,
-    "max": 84000000,
-    "nickname": "CMCassiani",
-    "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.88,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s09b8c1b771113651b37836099eff9881",
-    "reputacion": "99.80%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4111.0,
     "min": 500000,
     "max": 4033080,
@@ -102,25 +82,23 @@
   },
   {
     "exchange": "Binance",
-    "tipo": "SELL",
+    "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4139.98,
-    "min": 300000,
-    "max": 13300000,
-    "nickname": "Rapi-cripto-online",
+    "precio": 4111.0,
+    "min": 1000000,
+    "max": 4000000,
+    "nickname": "Casa-de-cambio-USDT",
     "metodos_pago": [
-      "Davivienda S.A",
-      "Daviplata",
       "Nequi",
       "Bancolombia S.A"
     ],
     "operable": true,
-    "comision_aprox": 33.12,
+    "comision_aprox": 32.89,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s4a75bafe61c5387a849f74345a82b250",
-    "reputacion": "100.00%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s5c23a4ec6aae3d84a3da9a803417cd62",
+    "reputacion": "99.80%"
   },
   {
     "exchange": "Binance",
@@ -149,25 +127,6 @@
     "cripto": "USDT",
     "fiat": "COP",
     "precio": 4139.0,
-    "min": 50000,
-    "max": 10505000,
-    "nickname": "CryptoTrade",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 33.11,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s51aee71e6c773a92b2c84f3f25c78bec",
-    "reputacion": "98.70%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4139.0,
     "min": 200000,
     "max": 9000000,
     "nickname": "ALDANATRADER",
@@ -180,6 +139,25 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf9448b86290f3345848d8938c25d4964",
     "reputacion": "94.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4139.0,
+    "min": 50000,
+    "max": 10505000,
+    "nickname": "CryptoTrade",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.11,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s51aee71e6c773a92b2c84f3f25c78bec",
+    "reputacion": "98.70%"
   },
   {
     "exchange": "Binance",
@@ -200,5 +178,24 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sc8a160734e6e338982ca3ddda2f14b4b",
     "reputacion": "99.40%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4138.99,
+    "min": 80000,
+    "max": 13000000,
+    "nickname": "CryptoManiaLATAM",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.11,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sa77d65138b3038f89e58c0d27ad1d75b",
+    "reputacion": "98.80%"
   }
 ]
