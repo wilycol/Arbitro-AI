@@ -23,25 +23,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4096.71,
-    "min": 2000000,
-    "max": 50000000,
-    "nickname": "wemz17",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.77,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb02b1875087f32ffb53ffa4aba63e634",
-    "reputacion": "99.70%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4096.89,
     "min": 33600,
     "max": 2581040,
@@ -98,6 +79,25 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s72e9016b856e3f6bbcd5a05611dfdca0",
     "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4100.0,
+    "min": 1000000,
+    "max": 8000000,
+    "nickname": "CriptoAndesxpress",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.8,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s14384efac05b338f9041b1c51105b15e",
+    "reputacion": "98.00%"
   },
   {
     "exchange": "Binance",
