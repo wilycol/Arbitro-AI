@@ -4,23 +4,23 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4087.14,
-    "min": 33600,
-    "max": 5000000,
-    "nickname": "HHBOSS",
+    "precio": 4087.05,
+    "min": 34000,
+    "max": 3500000,
+    "nickname": "Puntopay",
     "metodos_pago": [
       "Nequi",
-      "Bank Transfer",
-      "Bancolombia S.A",
+      "Cash Deposit to Bank",
+      "Davivienda S.A",
       "Daviplata",
-      "Davivienda S.A"
+      "BBVA"
     ],
     "operable": true,
     "comision_aprox": 32.7,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s899de69a413b398db36e209a45d0887c",
-    "reputacion": "94.60%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0660c89be67a3f1a9b27acc8c38731ae",
+    "reputacion": "98.30%"
   },
   {
     "exchange": "Binance",
@@ -100,7 +100,7 @@
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s062dd2c2385f34dcaa3e74aec6a28021",
-    "reputacion": "93.40%"
+    "reputacion": "93.50%"
   },
   {
     "exchange": "Binance",
@@ -172,26 +172,6 @@
     "fiat": "COP",
     "precio": 4125.0,
     "min": 1000000,
-    "max": 10000000,
-    "nickname": "Madeline2",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 33.0,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s74eb26b30ad83384aa1b317aef3a60f8",
-    "reputacion": "94.50%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4125.0,
-    "min": 1000000,
     "max": 84000000,
     "nickname": "_CriptoBanko_",
     "metodos_pago": [
@@ -205,5 +185,25 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s2fe0401172673559a81542b6209e85a0",
     "reputacion": "99.70%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4125.0,
+    "min": 900000,
+    "max": 20000000,
+    "nickname": "Nicolás Medina",
+    "metodos_pago": [
+      "Nequi",
+      "Daviplata"
+    ],
+    "operable": true,
+    "comision_aprox": 33.0,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s331e6ebfd7e33a3ca573217527abd389",
+    "reputacion": "99.90%"
   }
 ]
