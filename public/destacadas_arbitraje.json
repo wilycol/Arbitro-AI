@@ -24,49 +24,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4080.0,
-    "min": 33600,
-    "max": 1000000,
-    "nickname": "Edlob25",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.64,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=seaa26d9d95c7300eb74e6957aa853f77",
-    "reputacion": "99.20%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4080.57,
-    "min": 33600,
-    "max": 8000000,
-    "nickname": "MOOLEX",
-    "metodos_pago": [
-      "BBVA",
-      "Scotiabank Colpatria",
-      "Bank Transfer",
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.64,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=saa0f42cf7e9933f790f93ac59ee6916e",
-    "reputacion": "94.40%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4080.91,
     "min": 100000,
     "max": 25000000,
@@ -102,6 +59,49 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s2eda01afb600373fb0d28e79935972e1",
     "reputacion": "99.40%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4082.96,
+    "min": 33600,
+    "max": 8000000,
+    "nickname": "MOOLEX",
+    "metodos_pago": [
+      "BBVA",
+      "Scotiabank Colpatria",
+      "Bank Transfer",
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.66,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=saa0f42cf7e9933f790f93ac59ee6916e",
+    "reputacion": "94.40%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4083.0,
+    "min": 500000,
+    "max": 84000000,
+    "nickname": "usdtking",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.66,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s742902691dff32d8b51ced8653425a27",
+    "reputacion": "100.00%"
   },
   {
     "exchange": "Binance",
@@ -194,7 +194,7 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4166.59,
+    "precio": 4165.86,
     "min": 100000,
     "max": 800000,
     "nickname": "Moreenterprice",
