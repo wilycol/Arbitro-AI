@@ -190,22 +190,19 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4165.57,
-    "min": 100000,
-    "max": 800000,
-    "nickname": "Moreenterprice",
+    "precio": 4163.98,
+    "min": 8400,
+    "max": 13000000,
+    "nickname": "CryptoManiaLATAM",
     "metodos_pago": [
-      "Bancolombia S.A",
       "Nequi",
-      "Davivienda S.A",
-      "Bank Transfer",
-      "Scotiabank Colpatria"
+      "Bancolombia S.A"
     ],
     "operable": true,
-    "comision_aprox": 33.32,
+    "comision_aprox": 33.31,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf9742d30c083383ca97161c7b4a6f5ab",
-    "reputacion": "97.60%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sa77d65138b3038f89e58c0d27ad1d75b",
+    "reputacion": "98.80%"
   }
 ]
