@@ -4,6 +4,25 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4102.16,
+    "min": 33600,
+    "max": 5000000,
+    "nickname": "turcomerciante",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.82,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sde3165f048f638448bfebe52f720b656",
+    "reputacion": "97.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4105.0,
     "min": 33600,
     "max": 180000,
@@ -46,6 +65,27 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4105.0,
+    "min": 33600,
+    "max": 999999,
+    "nickname": "ELGENERAL07",
+    "metodos_pago": [
+      "Nequi",
+      "Cash Deposit to Bank",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.84,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s10c0acb910143878b80fcd0ef9aa52a5",
+    "reputacion": "97.90%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4105.01,
     "min": 1000000,
     "max": 30000000,
@@ -61,48 +101,7 @@
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sc77d4e3d0aae3e708101564cd2ca6ef6",
-    "reputacion": "81.90%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4106.5,
-    "min": 35000,
-    "max": 2000000,
-    "nickname": "Abogato",
-    "metodos_pago": [
-      "Daviplata",
-      "Nequi",
-      "Bancolombia S.A",
-      "Banco de Bogota"
-    ],
-    "operable": true,
-    "comision_aprox": 32.85,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s40438a670e553288bcbb12635ad37054",
-    "reputacion": "93.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4110.01,
-    "min": 1000000,
-    "max": 50000000,
-    "nickname": "wemz17",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.88,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb02b1875087f32ffb53ffa4aba63e634",
-    "reputacion": "99.70%"
+    "reputacion": "82.00%"
   },
   {
     "exchange": "Binance",
@@ -149,19 +148,20 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4139.0,
-    "min": 50000,
-    "max": 10505000,
-    "nickname": "CryptoTrade",
+    "precio": 4138.99,
+    "min": 300000,
+    "max": 13000000,
+    "nickname": "-PEPILLO-",
     "metodos_pago": [
+      "Bancolombia S.A",
       "Nequi"
     ],
     "operable": true,
     "comision_aprox": 33.11,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s51aee71e6c773a92b2c84f3f25c78bec",
-    "reputacion": "98.70%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sc8a160734e6e338982ca3ddda2f14b4b",
+    "reputacion": "99.40%"
   },
   {
     "exchange": "Binance",
@@ -187,19 +187,20 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4138.99,
-    "min": 300000,
-    "max": 13000000,
-    "nickname": "-PEPILLO-",
+    "precio": 4138.48,
+    "min": 45000,
+    "max": 800000,
+    "nickname": "Luzdy",
     "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
+      "Nequi",
+      "Scotiabank Colpatria",
+      "Uala"
     ],
     "operable": true,
     "comision_aprox": 33.11,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sc8a160734e6e338982ca3ddda2f14b4b",
-    "reputacion": "99.40%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sdf3410ec27dc3ac2be4498b438ae42b8",
+    "reputacion": "83.20%"
   }
 ]
