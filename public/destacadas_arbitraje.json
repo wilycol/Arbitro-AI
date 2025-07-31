@@ -23,27 +23,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4090.0,
-    "min": 800000,
-    "max": 1500000,
-    "nickname": "MBH_CambiosSeguros",
-    "metodos_pago": [
-      "Davivienda S.A",
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.72,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sac9df467cb36397b9604568a466029b7",
-    "reputacion": "94.20%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4090.32,
     "min": 45000,
     "max": 800000,
@@ -97,6 +76,26 @@
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf93b9476c8153a82850f8696e880e7cc",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4091.05,
+    "min": 500000,
+    "max": 60000000,
+    "nickname": "Criptoverso",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.73,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=scbeb3d478b77331f8352c918efb865a8",
     "reputacion": "100.00%"
   },
   {
