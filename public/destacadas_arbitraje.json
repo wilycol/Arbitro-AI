@@ -4,25 +4,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4100.84,
-    "min": 33600,
-    "max": 180000,
-    "nickname": "DANDP1999",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.81,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s9e118a73d25b3c56913829c253b60bd5",
-    "reputacion": "89.20%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4100.85,
     "min": 33600,
     "max": 5000000,
@@ -62,6 +43,49 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4102.03,
+    "min": 1800000,
+    "max": 50000000,
+    "nickname": "Tecus",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.82,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb945f8a476eb358f9a4bc044d11bb48e",
+    "reputacion": "98.40%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4102.33,
+    "min": 45000,
+    "max": 800000,
+    "nickname": "BETTERCALLTULIS",
+    "metodos_pago": [
+      "BBVA",
+      "Daviplata",
+      "Bank Transfer",
+      "Nequi",
+      "Ualá Colombia"
+    ],
+    "operable": true,
+    "comision_aprox": 32.82,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0116dfa224af38bd9ce1d4024df008be",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4105.0,
     "min": 33600,
     "max": 999999,
@@ -77,27 +101,6 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s10c0acb910143878b80fcd0ef9aa52a5",
     "reputacion": "97.90%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4105.05,
-    "min": 800000,
-    "max": 1600000,
-    "nickname": "MBH_CambiosSeguros",
-    "metodos_pago": [
-      "Davivienda S.A",
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.84,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sac9df467cb36397b9604568a466029b7",
-    "reputacion": "92.90%"
   },
   {
     "exchange": "Binance",
@@ -155,7 +158,7 @@
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s11c2c388bf0e3ac99fdce5787d26d2f3",
-    "reputacion": "89.40%"
+    "reputacion": "89.60%"
   },
   {
     "exchange": "Binance",
