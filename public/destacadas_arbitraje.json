@@ -4,26 +4,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4072.0,
-    "min": 33600,
-    "max": 2000000,
-    "nickname": "RonaldoVp",
-    "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.58,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sffd80dc1a60f31fc9e053ec681172723",
-    "reputacion": "93.50%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4080.0,
     "min": 100000,
     "max": 3000000,
@@ -84,7 +64,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4083.14,
+    "precio": 4084.13,
     "min": 33600,
     "max": 8000000,
     "nickname": "MOOLEX",
@@ -101,6 +81,27 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=saa0f42cf7e9933f790f93ac59ee6916e",
     "reputacion": "94.40%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4085.0,
+    "min": 33600,
+    "max": 999999,
+    "nickname": "ELGENERAL07",
+    "metodos_pago": [
+      "Nequi",
+      "Cash Deposit to Bank",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.68,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s10c0acb910143878b80fcd0ef9aa52a5",
+    "reputacion": "97.90%"
   },
   {
     "exchange": "Binance",
