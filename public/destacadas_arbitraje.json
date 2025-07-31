@@ -42,7 +42,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4101.36,
+    "precio": 4101.59,
     "min": 45000,
     "max": 800000,
     "nickname": "BETTERCALLTULIS",
@@ -170,6 +170,25 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4134.85,
+    "min": 80000,
+    "max": 13000000,
+    "nickname": "CryptoManiaLATAM",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.08,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sa77d65138b3038f89e58c0d27ad1d75b",
+    "reputacion": "98.70%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4134.45,
     "min": 37400,
     "max": 3200000,
@@ -185,24 +204,5 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sa6c89cc143a73f97899e7fa1d1a40fdf",
     "reputacion": "99.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4134.0,
-    "min": 33600,
-    "max": 420000,
-    "nickname": "Criptos2003",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 33.07,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s11c2c388bf0e3ac99fdce5787d26d2f3",
-    "reputacion": "89.20%"
   }
 ]
