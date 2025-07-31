@@ -4,19 +4,20 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4077.0,
-    "min": 100000,
-    "max": 1300000,
-    "nickname": "SAMUS2020",
+    "precio": 4072.0,
+    "min": 33600,
+    "max": 2000000,
+    "nickname": "RonaldoVp",
     "metodos_pago": [
-      "Nequi"
+      "Nequi",
+      "Bancolombia S.A"
     ],
     "operable": true,
-    "comision_aprox": 32.62,
+    "comision_aprox": 32.58,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sbacc885b0ae83e529d47da95971174fa",
-    "reputacion": "100.00%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sffd80dc1a60f31fc9e053ec681172723",
+    "reputacion": "93.50%"
   },
   {
     "exchange": "Binance",
@@ -63,7 +64,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4081.13,
+    "precio": 4081.05,
     "min": 33600,
     "max": 8000000,
     "nickname": "MOOLEX",
