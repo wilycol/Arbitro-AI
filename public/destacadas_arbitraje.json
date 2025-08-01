@@ -4,26 +4,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4068.0,
-    "min": 33600,
-    "max": 984000,
-    "nickname": "mauyande",
-    "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.54,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s52c2114f5f0b37ed9570c993de963630",
-    "reputacion": "94.90%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4070.0,
     "min": 33600,
     "max": 418000,
@@ -99,22 +79,23 @@
   },
   {
     "exchange": "Binance",
-    "tipo": "SELL",
+    "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4174.0,
-    "min": 20000,
+    "precio": 4070.15,
+    "min": 200000,
     "max": 13000000,
-    "nickname": "COLPAY_",
+    "nickname": "VALERI_CRIPTO",
     "metodos_pago": [
+      "Bancolombia S.A",
       "Nequi"
     ],
     "operable": true,
-    "comision_aprox": 33.39,
+    "comision_aprox": 32.56,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sa8537266666f3ed39377e286fdc6861e",
-    "reputacion": "91.50%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s7a4c18688d37332aa75ac15ea8bbabd9",
+    "reputacion": "99.90%"
   },
   {
     "exchange": "Binance",
@@ -195,5 +176,24 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf47672f5733933fc82660c1379ef27d1",
     "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4150.0,
+    "min": 8400,
+    "max": 13000000,
+    "nickname": "criptobda",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.2,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sd954c62a4af13d74b67191f320e015c0",
+    "reputacion": "99.00%"
   }
 ]
