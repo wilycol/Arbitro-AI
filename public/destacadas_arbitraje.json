@@ -4,25 +4,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4086.5,
-    "min": 35000,
-    "max": 400000,
-    "nickname": "Ferxxotrading",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.69,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=se24e317d9c6c38a3a159b0a0e7cbdebc",
-    "reputacion": "100.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4088.0,
     "min": 40000,
     "max": 14308000,
@@ -100,6 +81,26 @@
   },
   {
     "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4089.01,
+    "min": 50000,
+    "max": 500000,
+    "nickname": "SPIDER-COIN",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.71,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf9afea9025cb369da046c19443bf1842",
+    "reputacion": "90.40%"
+  },
+  {
+    "exchange": "Binance",
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
@@ -142,18 +143,19 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4129.85,
+    "precio": 4129.9,
     "min": 100000,
-    "max": 13000000,
-    "nickname": "TORITO-P2P",
+    "max": 4000000,
+    "nickname": "DriverBTC",
     "metodos_pago": [
-      "Nequi"
+      "Nequi",
+      "Bancolombia S.A"
     ],
     "operable": true,
     "comision_aprox": 33.04,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s66d49dce06363b288f2f6c0ed03e273e",
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s89565df254bd303fafa26ee66e2078c8",
     "reputacion": "100.00%"
   },
   {
