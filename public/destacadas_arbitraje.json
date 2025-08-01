@@ -26,27 +26,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4040.0,
-    "min": 800000,
-    "max": 20000000,
-    "nickname": "Depanita",
-    "metodos_pago": [
-      "Scotiabank Colpatria",
-      "Nequi",
-      "Bancolombia S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.32,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s5852a186cd7439a9a9bbcca4116c56e0",
-    "reputacion": "86.80%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4040.01,
     "min": 34000,
     "max": 200000,
@@ -103,23 +82,23 @@
   },
   {
     "exchange": "Binance",
-    "tipo": "SELL",
+    "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4089.9,
-    "min": 800000,
-    "max": 66000000,
-    "nickname": "CONTINENTAL_CO",
+    "precio": 4043.0,
+    "min": 200000,
+    "max": 33000000,
+    "nickname": "DigitalCoinsChanges",
     "metodos_pago": [
-      "Davivienda S.A",
-      "Nequi"
+      "Nequi",
+      "Bancolombia S.A"
     ],
     "operable": true,
-    "comision_aprox": 32.72,
+    "comision_aprox": 32.34,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s489242e319be361687148dcded3129c1",
-    "reputacion": "99.70%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sd7d0fccd7b913dc4bd5cead9cdd2863c",
+    "reputacion": "94.20%"
   },
   {
     "exchange": "Binance",
@@ -140,26 +119,6 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0435f756bea23b2e933777bcacbf577e",
     "reputacion": "99.70%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4089.0,
-    "min": 700000,
-    "max": 84000000,
-    "nickname": "Coin_Trader07",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.71,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s4b73cde5836b307faa45d9d609ec0592",
-    "reputacion": "99.50%"
   },
   {
     "exchange": "Binance",
@@ -200,5 +159,45 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s36946cba1360324bbe7b644c6686e9c7",
     "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4088.9,
+    "min": 1000000,
+    "max": 80000000,
+    "nickname": "LATINCOIN_PRO",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.71,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s4f54edc5522838fe9caf93c533a68318",
+    "reputacion": "99.70%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4088.8,
+    "min": 1000000,
+    "max": 66000000,
+    "nickname": "CONTINENTAL_CO",
+    "metodos_pago": [
+      "Davivienda S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.71,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s489242e319be361687148dcded3129c1",
+    "reputacion": "99.70%"
   }
 ]
