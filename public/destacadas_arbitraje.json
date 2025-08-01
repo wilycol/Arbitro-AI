@@ -4,6 +4,26 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4068.0,
+    "min": 33600,
+    "max": 984000,
+    "nickname": "mauyande",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.54,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s52c2114f5f0b37ed9570c993de963630",
+    "reputacion": "94.90%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4070.0,
     "min": 33600,
     "max": 418000,
@@ -44,30 +64,10 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4070.15,
-    "min": 200000,
-    "max": 13000000,
-    "nickname": "VALERI_CRIPTO",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.56,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s7a4c18688d37332aa75ac15ea8bbabd9",
-    "reputacion": "99.90%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4070.16,
-    "min": 150000,
-    "max": 13000000,
-    "nickname": "CriptoInversor",
+    "precio": 4070.0,
+    "min": 40000,
+    "max": 812000,
+    "nickname": "P2P-e57561os",
     "metodos_pago": [
       "Nequi"
     ],
@@ -75,28 +75,47 @@
     "comision_aprox": 32.56,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sc6d235e7ebf33063b4c2b63d36f655ac",
-    "reputacion": "99.80%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=secddab1200883fba8b9ab6c135e57561",
+    "reputacion": "93.70%"
   },
   {
     "exchange": "Binance",
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4070.17,
+    "precio": 4070.0,
     "min": 100000,
-    "max": 25000000,
-    "nickname": "ELMICHICHI",
+    "max": 13000000,
+    "nickname": "mjup",
     "metodos_pago": [
-      "Nequi",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.56,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s315ad4bec1a835888ddcd72f681a215a",
+    "reputacion": "98.60%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4170.0,
+    "min": 8400,
+    "max": 30000000,
+    "nickname": "EdHeRoMo-Trader",
+    "metodos_pago": [
       "Bank Transfer",
+      "Nequi",
       "Bancolombia S.A"
     ],
     "operable": true,
-    "comision_aprox": 32.56,
+    "comision_aprox": 33.36,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb0c4f25e651d3bcfb9556dc6c63a5e17",
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sab674b73524033a0a7d4df94edd1cb1c",
     "reputacion": "98.50%"
   },
   {
@@ -176,24 +195,5 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sd954c62a4af13d74b67191f320e015c0",
     "reputacion": "99.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4149.99,
-    "min": 8400,
-    "max": 13000000,
-    "nickname": "sebastianlorenzen",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 33.2,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=saad94300b492364b88f8a57136da0d33",
-    "reputacion": "95.80%"
   }
 ]
