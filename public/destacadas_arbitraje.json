@@ -4,27 +4,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4082.0,
-    "min": 600000,
-    "max": 8172000,
-    "nickname": "SONIA1610",
-    "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.66,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sc941ea1c7bee3154a1b67638d75a9b70",
-    "reputacion": "96.60%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4082.01,
+    "precio": 4082.02,
     "min": 2000000,
     "max": 84000000,
     "nickname": "Tecus",
@@ -57,6 +37,26 @@
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf93b9476c8153a82850f8696e880e7cc",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4083.05,
+    "min": 200000,
+    "max": 15000000,
+    "nickname": "CriptoScalper",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.66,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s6048e643c8c03d33810e2b70d4dfcd0b",
     "reputacion": "100.00%"
   },
   {
@@ -107,20 +107,20 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4158.88,
-    "min": 5000000,
+    "precio": 4158.89,
+    "min": 150000,
     "max": 84000000,
-    "nickname": "Tecus",
+    "nickname": "Criptoverso",
     "metodos_pago": [
       "Nequi",
-      "Bancolombia S.A"
+      "Davivienda S.A"
     ],
     "operable": true,
     "comision_aprox": 33.27,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb945f8a476eb358f9a4bc044d11bb48e",
-    "reputacion": "98.50%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=scbeb3d478b77331f8352c918efb865a8",
+    "reputacion": "100.00%"
   },
   {
     "exchange": "Binance",
