@@ -24,20 +24,19 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4086.56,
-    "min": 1000000,
-    "max": 20700000,
-    "nickname": "GLOBAL-FINANCE23",
+    "precio": 4086.57,
+    "min": 500000,
+    "max": 50000000,
+    "nickname": "CRIPTO-BLUE",
     "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
+      "Nequi"
     ],
     "operable": true,
     "comision_aprox": 32.69,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sdbf71e57060f3338b15b811af782db99",
-    "reputacion": "100.00%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s48a076cf3ef73f2caa2eff76a6e6db69",
+    "reputacion": "99.00%"
   },
   {
     "exchange": "Binance",
@@ -83,20 +82,19 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4087.39,
-    "min": 200000,
-    "max": 10000000,
-    "nickname": "DanyCriptoOtc",
+    "precio": 4087.09,
+    "min": 300000,
+    "max": 800000,
+    "nickname": "CACERES",
     "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
+      "Nequi"
     ],
     "operable": true,
     "comision_aprox": 32.7,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sc4f4eef51d29316f9299c3ccc58e0fd7",
-    "reputacion": "100.00%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s9b5b44dda99d3b6594b3e1ed38f624d3",
+    "reputacion": "99.90%"
   },
   {
     "exchange": "Binance",
