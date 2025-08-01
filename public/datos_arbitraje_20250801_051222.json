@@ -1,0 +1,800 @@
+[
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4110.0,
+    "min": 2000000,
+    "max": 3000000,
+    "nickname": "FelipeR11",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.88,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sd7b3cdee841d3e64b0d56a2869463a2f",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4099.0,
+    "min": 2000000,
+    "max": 30000000,
+    "nickname": "03BUSSINES",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.79,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sbb1441117f833ef9996c948192fce420",
+    "reputacion": "97.90%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4098.0,
+    "min": 50000,
+    "max": 3880000,
+    "nickname": "Acuos_Woman",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.78,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=se064ddc77c1e3b428a7eb7be04d7b61a",
+    "reputacion": "99.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4097.0,
+    "min": 33600,
+    "max": 3971000,
+    "nickname": "Logan",
+    "metodos_pago": [
+      "Davivienda S.A",
+      "Nequi",
+      "Movii",
+      "Daviplata",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.78,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sc5bc18211eda34429afce49bd8fe1a80",
+    "reputacion": "90.40%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4090.13,
+    "min": 1000000,
+    "max": 10000000,
+    "nickname": "ColTrustCorp",
+    "metodos_pago": [
+      "Daviplata",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.72,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s15bc5d26b14d3cf890c6073e9db3e371",
+    "reputacion": "99.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4090.12,
+    "min": 4000000,
+    "max": 50000000,
+    "nickname": "SMART_PAY_CXO",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.72,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb7c8e2198f903965bae7da6feb613987",
+    "reputacion": "99.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4090.0,
+    "min": 50000,
+    "max": 2807000,
+    "nickname": "SafeMore",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.72,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf89211170b943ad0955eb7acc05c7c80",
+    "reputacion": "93.50%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4088.0,
+    "min": 40000,
+    "max": 14308000,
+    "nickname": "BAUR TRADING",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.7,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s23efd1dd4e7c346ebeb06ec7e59ca4f6",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4086.5,
+    "min": 35000,
+    "max": 400000,
+    "nickname": "Ferxxotrading",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.69,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=se24e317d9c6c38a3a159b0a0e7cbdebc",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4085.07,
+    "min": 800000,
+    "max": 6000000,
+    "nickname": "CriptoMayorista",
+    "metodos_pago": [
+      "Nequi",
+      "Davivienda S.A",
+      "Daviplata"
+    ],
+    "operable": true,
+    "comision_aprox": 32.68,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s3217398c12b23527b9b8d43d331fd32e",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4085.0,
+    "min": 50000,
+    "max": 8000000,
+    "nickname": "CriptoAndesxpress",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.68,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s14384efac05b338f9041b1c51105b15e",
+    "reputacion": "98.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4081.04,
+    "min": 2500000,
+    "max": 40000000,
+    "nickname": "CryptoGiros",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.65,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s5b9d508a54e03d28a4e8e8a7c269903e",
+    "reputacion": "98.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4081.03,
+    "min": 800000,
+    "max": 50000000,
+    "nickname": "CHIVATA-COIN",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.65,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s8b96169f40dc3affac673261a385ec1c",
+    "reputacion": "97.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4079.0,
+    "min": 33600,
+    "max": 1800000,
+    "nickname": "cesarjab10",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.63,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s6bd0525db91635d88b8666b136b81021",
+    "reputacion": "97.50%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4078.1,
+    "min": 1000000,
+    "max": 35650000,
+    "nickname": "CRYPTO-BUCARAMANGA",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.62,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s97e22771170a36a7988053222ce07a75",
+    "reputacion": "99.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4078.0,
+    "min": 200000,
+    "max": 50000000,
+    "nickname": "Crypfinance",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.62,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=scdbb868a366a38e3814239bf0d8c90d3",
+    "reputacion": "99.70%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4072.0,
+    "min": 400000,
+    "max": 4000000,
+    "nickname": "Casa-de-cambio-USDT",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.58,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s5c23a4ec6aae3d84a3da9a803417cd62",
+    "reputacion": "99.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4071.0,
+    "min": 400000,
+    "max": 84000000,
+    "nickname": "Bit_Perilla",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.57,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s1db5a2084f163d35a8ca9096151c90de",
+    "reputacion": "99.90%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4070.0,
+    "min": 33600,
+    "max": 418000,
+    "nickname": "Criptos2003",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.56,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s11c2c388bf0e3ac99fdce5787d26d2f3",
+    "reputacion": "90.40%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4070.0,
+    "min": 300000,
+    "max": 11000000,
+    "nickname": "Investments1998",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.56,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s5e15e8125f4b3c73b493acfef01835b2",
+    "reputacion": "99.90%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4115.0,
+    "min": 398000,
+    "max": 30000000,
+    "nickname": "AngieTapia",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.92,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s4c796e1df4bc3f7080adc8436cb94790",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4123.0,
+    "min": 45000,
+    "max": 480000,
+    "nickname": "DIVINI-LIBERTY",
+    "metodos_pago": [
+      "Banco de Bogota",
+      "Nequi",
+      "Daviplata"
+    ],
+    "operable": true,
+    "comision_aprox": 32.98,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s7f0739607a7c3e41ab5da1aae84629c8",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4123.0,
+    "min": 1500000,
+    "max": 25000000,
+    "nickname": "TradeUSDTExpress",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.98,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s3b695461d41d37729a332a7737633266",
+    "reputacion": "99.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4124.0,
+    "min": 1500000,
+    "max": 30000000,
+    "nickname": "SafeMoneyP2P",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.99,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s526cba2a54533ecb838bedefca89fc44",
+    "reputacion": "99.50%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4125.0,
+    "min": 600000,
+    "max": 10370868,
+    "nickname": "Juniorb13",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 33.0,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s18ab6a74e4f03f3587d39d93c269c3d2",
+    "reputacion": "87.10%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4125.9,
+    "min": 150000,
+    "max": 7000000,
+    "nickname": "FinanzasJen10",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.01,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s70428b49f65b312d8e768962bd408053",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4129.99,
+    "min": 33600,
+    "max": 800000,
+    "nickname": "IntercambioP2P_JIREH",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.04,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s6654ffbcd0cd35ac985341cdf6356771",
+    "reputacion": "98.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4130.0,
+    "min": 33600,
+    "max": 1804311,
+    "nickname": "safe2trust",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A",
+      "Daviplata"
+    ],
+    "operable": true,
+    "comision_aprox": 33.04,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s9adfe88d45b2320fb98fd313c4e728aa",
+    "reputacion": "98.20%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4130.88,
+    "min": 200000,
+    "max": 3000000,
+    "nickname": "Puntopay",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi",
+      "Daviplata",
+      "BBVA",
+      "Davivienda S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 33.05,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0660c89be67a3f1a9b27acc8c38731ae",
+    "reputacion": "98.50%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4130.9,
+    "min": 400000,
+    "max": 4000000,
+    "nickname": "MILWARGOLD-5minutos",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.05,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s2eda01afb600373fb0d28e79935972e1",
+    "reputacion": "99.40%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4136.97,
+    "min": 33600,
+    "max": 42000000,
+    "nickname": "Cryptos",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.1,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sc1f6426916ae374d8c5d5dddfdb3bee1",
+    "reputacion": "96.90%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4140.0,
+    "min": 100000,
+    "max": 2000000,
+    "nickname": "Wlayurimar",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.12,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s74fb1e5a37dc378aaadcd2f520b3dfe8",
+    "reputacion": "97.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4142.0,
+    "min": 250000,
+    "max": 25186350,
+    "nickname": "Yezid",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.14,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s9356bcf762e035b99f7bf915c6fd0200",
+    "reputacion": "99.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4142.1,
+    "min": 100000,
+    "max": 20000000,
+    "nickname": "SAS-INVERSIONCRIPTO",
+    "metodos_pago": [
+      "Banco de Bogota",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.14,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s8ab9bf371c9f3cc89ae0ccd84f0be5d3",
+    "reputacion": "96.40%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4142.99,
+    "min": 50000,
+    "max": 13000000,
+    "nickname": "sebastianlorenzen",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.14,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=saad94300b492364b88f8a57136da0d33",
+    "reputacion": "95.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4143.0,
+    "min": 50000,
+    "max": 15000000,
+    "nickname": "CRYPTO-BUCARAMANGA",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.14,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s97e22771170a36a7988053222ce07a75",
+    "reputacion": "99.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4144.0,
+    "min": 20000,
+    "max": 13000000,
+    "nickname": "CriptoPepi",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.15,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s1e8a262c62803db28a2201de990161b3",
+    "reputacion": "98.50%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4146.0,
+    "min": 100000,
+    "max": 42000000,
+    "nickname": "CryptoNet",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Davivienda S.A",
+      "Nequi",
+      "Banco de Bogota",
+      "Cash Deposit to Bank"
+    ],
+    "operable": true,
+    "comision_aprox": 33.17,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s67638a9cd751312e9f97084ca09d8680",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4150.0,
+    "min": 45000,
+    "max": 800000,
+    "nickname": "DEVSUAREZ",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 33.2,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s3bff2ec56ada3b5d9467961c05eba436",
+    "reputacion": "93.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4150.0,
+    "min": 50000,
+    "max": 10000000,
+    "nickname": "MONEYTRANSFER365",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.2,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf47672f5733933fc82660c1379ef27d1",
+    "reputacion": "100.00%"
+  }
+]
