@@ -4,6 +4,46 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4068.0,
+    "min": 33600,
+    "max": 984000,
+    "nickname": "mauyande",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.54,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s52c2114f5f0b37ed9570c993de963630",
+    "reputacion": "94.90%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4068.03,
+    "min": 40000,
+    "max": 3500000,
+    "nickname": "INVERCRIPTOJEANCA",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.54,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s028467491fb73beb9e1e10ceb9c6620d",
+    "reputacion": "98.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4070.0,
     "min": 33600,
     "max": 418000,
@@ -60,41 +100,42 @@
   },
   {
     "exchange": "Binance",
-    "tipo": "BUY",
+    "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4070.0,
-    "min": 33600,
-    "max": 1510000,
-    "nickname": "P2P-Jorge_",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.56,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s1d0ddd54697935698b7dec7d7e81ec8e",
-    "reputacion": "94.30%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4070.01,
-    "min": 33600,
-    "max": 9999999,
-    "nickname": "iamyise07",
+    "precio": 4115.0,
+    "min": 45000,
+    "max": 1500000,
+    "nickname": "E-trading-cripto",
     "metodos_pago": [
       "Nequi",
-      "Daviplata"
+      "Bancolombia S.A"
     ],
     "operable": true,
-    "comision_aprox": 32.56,
+    "comision_aprox": 32.92,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s2ae07ee627883a0cb428469b84dbcd1f",
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s93cb229b596832ea9ef1a9c537e7b42b",
+    "reputacion": "88.90%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4114.99,
+    "min": 1000000,
+    "max": 36000000,
+    "nickname": "GLOBAL-FINANCE23",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.92,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sdbf71e57060f3338b15b811af782db99",
     "reputacion": "100.00%"
   },
   {
@@ -102,58 +143,19 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4108.0,
-    "min": 2000000,
-    "max": 42000000,
-    "nickname": "COMERCIANTE0",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.86,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf2b10d2256a3396db1bb109c998d4f95",
-    "reputacion": "100.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4107.95,
-    "min": 500000,
-    "max": 25000000,
-    "nickname": "STORECRIPTO",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.86,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb1064bb5f4453c6a857f6ad84e3681e7",
-    "reputacion": "99.90%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4107.93,
-    "min": 200000,
+    "precio": 4114.8,
+    "min": 100000,
     "max": 4000000,
-    "nickname": "JULIAN-CRIPTO-SELLER",
+    "nickname": "DriverBTC",
     "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
+      "Nequi",
+      "Bancolombia S.A"
     ],
     "operable": true,
-    "comision_aprox": 32.86,
+    "comision_aprox": 32.92,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s3b9a226d5d5d3fc793e542385660bbc8",
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s89565df254bd303fafa26ee66e2078c8",
     "reputacion": "100.00%"
   },
   {
@@ -161,18 +163,18 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4107.92,
-    "min": 200000,
-    "max": 20000000,
-    "nickname": "Change_Cripto",
+    "precio": 4113.0,
+    "min": 300000,
+    "max": 30000000,
+    "nickname": "Guason_",
     "metodos_pago": [
       "Nequi"
     ],
     "operable": true,
-    "comision_aprox": 32.86,
+    "comision_aprox": 32.9,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0f5c2e7c97293a5ea0b75379e05a4ed4",
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s34aa9e5d9fe93be49649b60979b4d6eb",
     "reputacion": "99.70%"
   },
   {
@@ -180,19 +182,19 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4107.89,
-    "min": 33600,
-    "max": 8000000,
-    "nickname": "reicheljeimsstv",
+    "precio": 4110.0,
+    "min": 500000,
+    "max": 2500001,
+    "nickname": "INTERCAMBIOS2020",
     "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
+      "Bancolombia S.A",
+      "Nequi"
     ],
     "operable": true,
-    "comision_aprox": 32.86,
+    "comision_aprox": 32.88,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb39bf2f2a7743d6091eaf6e95fe5503f",
-    "reputacion": "100.00%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s915047a7556439c197b0f3ae021fc47a",
+    "reputacion": "99.10%"
   }
 ]
