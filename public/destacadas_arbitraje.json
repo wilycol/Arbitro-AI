@@ -24,26 +24,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4047.0,
-    "min": 33600,
-    "max": 451220,
-    "nickname": "gpcambios",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.38,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s072d399b511b3f3c8ed6297f4df46eb4",
-    "reputacion": "96.80%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4047.12,
     "min": 70000,
     "max": 6000000,
@@ -100,24 +80,46 @@
   },
   {
     "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4049.0,
+    "min": 33600,
+    "max": 3971000,
+    "nickname": "Logan",
+    "metodos_pago": [
+      "Davivienda S.A",
+      "Nequi",
+      "Movii",
+      "Daviplata",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.39,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sc5bc18211eda34429afce49bd8fe1a80",
+    "reputacion": "90.40%"
+  },
+  {
+    "exchange": "Binance",
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4092.98,
-    "min": 400000,
-    "max": 10000000,
-    "nickname": "RapiUSDT",
+    "precio": 4093.5,
+    "min": 250000,
+    "max": 50000000,
+    "nickname": "Lexor_Markets",
     "metodos_pago": [
-      "Nequi",
-      "Davivienda S.A",
-      "Daviplata"
+      "Bancolombia S.A",
+      "Nequi"
     ],
     "operable": true,
-    "comision_aprox": 32.74,
+    "comision_aprox": 32.75,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s35a99cdf76d3334aaf0fa2197cdd4002",
-    "reputacion": "99.60%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s83c57de5e7073448b6e49a909a1311bf",
+    "reputacion": "100.00%"
   },
   {
     "exchange": "Binance",
