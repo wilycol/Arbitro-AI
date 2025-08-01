@@ -85,19 +85,20 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4078.08,
-    "min": 200000,
-    "max": 13000000,
-    "nickname": "SindellCripto",
+    "precio": 4078.02,
+    "min": 2000000,
+    "max": 84000000,
+    "nickname": "Tecus",
     "metodos_pago": [
+      "Bancolombia S.A",
       "Nequi"
     ],
     "operable": true,
     "comision_aprox": 32.62,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf93b9476c8153a82850f8696e880e7cc",
-    "reputacion": "100.00%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb945f8a476eb358f9a4bc044d11bb48e",
+    "reputacion": "98.50%"
   },
   {
     "exchange": "Binance",
