@@ -4,30 +4,7 @@
     "tipo": "BUY",
     "cripto": "USDC",
     "fiat": "COP",
-    "precio": 4011.05,
-    "min": 500000,
-    "max": 84000000,
-    "nickname": "LEYVELTRADE",
-    "metodos_pago": [
-      "Bank Transfer",
-      "Davivienda S.A",
-      "BBVA",
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.09,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sd9510dfcdab33eeebcb14172fd743bc9",
-    "reputacion": "99.70%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDC",
-    "fiat": "COP",
-    "precio": 4018.96,
+    "precio": 4016.43,
     "min": 45000,
     "max": 1500000,
     "nickname": "SS_CRIPTO",
@@ -36,7 +13,7 @@
       "Nequi"
     ],
     "operable": true,
-    "comision_aprox": 32.15,
+    "comision_aprox": 32.13,
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sddda1e172e3938fa93ed839ef96aba6b",
@@ -101,6 +78,27 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s69acb34a7b243904a329fe1350cd696f",
     "reputacion": "99.90%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDC",
+    "fiat": "COP",
+    "precio": 4026.0,
+    "min": 45000,
+    "max": 11800000,
+    "nickname": "quinterosoluciones",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A",
+      "Daviplata"
+    ],
+    "operable": true,
+    "comision_aprox": 32.21,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s37f16e5d3d093772a182a60047944695",
+    "reputacion": "88.00%"
   },
   {
     "exchange": "Binance",
