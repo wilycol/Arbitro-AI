@@ -82,7 +82,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4080.69,
+    "precio": 4081.34,
     "min": 35000,
     "max": 2000000,
     "nickname": "ROBLEScambios",
@@ -142,6 +142,27 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4131.0,
+    "min": 800000,
+    "max": 80000000,
+    "nickname": "GlobalMoneyKING",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A",
+      "Davivienda S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 33.05,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0eea6fd9230831018754e5b17cadd828",
+    "reputacion": "99.90%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4130.0,
     "min": 33600,
     "max": 1804311,
@@ -178,24 +199,5 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s93e995f0a7653caca1586b50cdfed283",
     "reputacion": "99.60%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4129.99,
-    "min": 33600,
-    "max": 800000,
-    "nickname": "IntercambioP2P_JIREH",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 33.04,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s6654ffbcd0cd35ac985341cdf6356771",
-    "reputacion": "98.80%"
   }
 ]
