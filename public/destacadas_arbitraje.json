@@ -82,7 +82,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4042.51,
+    "precio": 4042.17,
     "min": 4000000,
     "max": 84000000,
     "nickname": "SIDDHI_SAS",
@@ -117,26 +117,6 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0f5c2e7c97293a5ea0b75379e05a4ed4",
     "reputacion": "99.70%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4090.6,
-    "min": 200000,
-    "max": 4000000,
-    "nickname": "JULIAN-CRIPTO-SELLER",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.72,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s3b9a226d5d5d3fc793e542385660bbc8",
-    "reputacion": "100.00%"
   },
   {
     "exchange": "Binance",
@@ -184,21 +164,38 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4090.0,
-    "min": 500000,
+    "precio": 4089.9,
+    "min": 800000,
     "max": 66000000,
-    "nickname": "DON_TITO",
+    "nickname": "CONTINENTAL_CO",
     "metodos_pago": [
       "Davivienda S.A",
-      "Nequi",
-      "Bancolombia S.A",
-      "BBVA"
+      "Nequi"
     ],
     "operable": true,
     "comision_aprox": 32.72,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s78b02e0abe053dc786446aa2b5dd5944",
-    "reputacion": "99.20%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s489242e319be361687148dcded3129c1",
+    "reputacion": "99.70%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4089.0,
+    "min": 500000,
+    "max": 25000000,
+    "nickname": "STORECRIPTO",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.71,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb1064bb5f4453c6a857f6ad84e3681e7",
+    "reputacion": "99.90%"
   }
 ]
