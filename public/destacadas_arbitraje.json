@@ -24,26 +24,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4065.0,
-    "min": 100000,
-    "max": 13000000,
-    "nickname": "CriptoDFS",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.52,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s7adfccd3f4de31099032241f6144dc24",
-    "reputacion": "100.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4065.32,
+    "precio": 4065.59,
     "min": 35000,
     "max": 1000000,
     "nickname": "Lilo_BTC",
@@ -63,7 +44,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4065.32,
+    "precio": 4065.59,
     "min": 45000,
     "max": 1500000,
     "nickname": "SS_CRIPTO",
@@ -97,6 +78,26 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s14fe6b7e8c303d6d9b3c6ade3874fbad",
     "reputacion": "89.10%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4068.0,
+    "min": 33600,
+    "max": 984000,
+    "nickname": "mauyande",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.54,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s52c2114f5f0b37ed9570c993de963630",
+    "reputacion": "94.90%"
   },
   {
     "exchange": "Binance",
