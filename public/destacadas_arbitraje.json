@@ -4,47 +4,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4072.73,
-    "min": 200000,
-    "max": 40000000,
-    "nickname": "CriptoScalper",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.58,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s6048e643c8c03d33810e2b70d4dfcd0b",
-    "reputacion": "100.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4078.01,
-    "min": 700000,
-    "max": 84000000,
-    "nickname": "Criptoverso",
-    "metodos_pago": [
-      "Daviplata",
-      "Davivienda S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.62,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=scbeb3d478b77331f8352c918efb865a8",
-    "reputacion": "100.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4078.02,
     "min": 50000,
     "max": 9999999,
@@ -99,6 +58,46 @@
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf93b9476c8153a82850f8696e880e7cc",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4079.1,
+    "min": 40000,
+    "max": 3500000,
+    "nickname": "INVERCRIPTOJEANCA",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.63,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s028467491fb73beb9e1e10ceb9c6620d",
+    "reputacion": "98.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4081.02,
+    "min": 200000,
+    "max": 15000000,
+    "nickname": "AdrianaBTC",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.65,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb3eebbdf9071386aae2f4fad2e7ce2f8",
     "reputacion": "100.00%"
   },
   {
