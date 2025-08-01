@@ -4,7 +4,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4081.25,
+    "precio": 4081.57,
     "min": 35000,
     "max": 2000000,
     "nickname": "ROBLEScambios",
@@ -124,6 +124,26 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4131.2,
+    "min": 20000,
+    "max": 12000000,
+    "nickname": "CAJAcambiosve",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.05,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s00d5c1b440bc381a9160d1ba75c9c168",
+    "reputacion": "99.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4130.0,
     "min": 33600,
     "max": 1804311,
@@ -178,26 +198,5 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb0c4f25e651d3bcfb9556dc6c63a5e17",
     "reputacion": "98.60%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4128.0,
-    "min": 200000,
-    "max": 3181650,
-    "nickname": "TheWriter69Cash",
-    "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A",
-      "Banco Caja Social Colombia"
-    ],
-    "operable": true,
-    "comision_aprox": 33.02,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s93e995f0a7653caca1586b50cdfed283",
-    "reputacion": "99.60%"
   }
 ]
