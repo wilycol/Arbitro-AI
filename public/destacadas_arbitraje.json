@@ -43,33 +43,13 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4042.0,
-    "min": 1000000,
-    "max": 84000000,
-    "nickname": "MapaBTCS",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.34,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s1eb6a1953446318b8947ad8244997860",
-    "reputacion": "100.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4042.2,
     "min": 5000000,
     "max": 84000000,
     "nickname": "PAGOS_COLOMBIA",
     "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
+      "Bancolombia S.A",
+      "Nequi"
     ],
     "operable": true,
     "comision_aprox": 32.34,
@@ -83,18 +63,79 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4042.93,
-    "min": 2500000,
-    "max": 40000000,
-    "nickname": "ϾryptoExchange®™",
+    "precio": 4043.06,
+    "min": 35000,
+    "max": 6000000,
+    "nickname": "GolitaArbitraje",
     "metodos_pago": [
+      "Bancolombia S.A",
       "Nequi"
     ],
     "operable": true,
     "comision_aprox": 32.34,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s7cebd69d07a43750bffd277c9bf65371",
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s9c81e8340fcf36b9ab9694d9f46bd478",
+    "reputacion": "96.50%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4043.12,
+    "min": 70000,
+    "max": 6000000,
+    "nickname": "Tuapp-Cripto",
+    "metodos_pago": [
+      "Daviplata",
+      "Nequi",
+      "Davivienda S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.34,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0f11e0f3fb29343dadbea0ba0a886e5b",
+    "reputacion": "99.20%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4085.0,
+    "min": 1000000,
+    "max": 66000000,
+    "nickname": "CONTINENTAL_CO",
+    "metodos_pago": [
+      "Davivienda S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.68,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s489242e319be361687148dcded3129c1",
+    "reputacion": "99.70%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4084.98,
+    "min": 200000,
+    "max": 15000000,
+    "nickname": "CriptoScalper",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.68,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s6048e643c8c03d33810e2b70d4dfcd0b",
     "reputacion": "100.00%"
   },
   {
@@ -157,45 +198,5 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s4623a8bd48d136879b9ace7c22f5bcc0",
     "reputacion": "99.70%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4080.0,
-    "min": 4000000,
-    "max": 5820000,
-    "nickname": "capiramirez",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.64,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s2b8615acdb9b335790d526be3b558721",
-    "reputacion": "100.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4080.0,
-    "min": 2000000,
-    "max": 42000000,
-    "nickname": "COMERCIANTE0",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.64,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf2b10d2256a3396db1bb109c998d4f95",
-    "reputacion": "100.00%"
   }
 ]
