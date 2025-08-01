@@ -4,6 +4,49 @@
     "tipo": "BUY",
     "cripto": "USDC",
     "fiat": "COP",
+    "precio": 4011.04,
+    "min": 100000,
+    "max": 6000000,
+    "nickname": "Schiqui",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.09,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s84d810883566336ebaba3636e444013d",
+    "reputacion": "99.10%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDC",
+    "fiat": "COP",
+    "precio": 4011.05,
+    "min": 500000,
+    "max": 84000000,
+    "nickname": "LEYVELTRADE",
+    "metodos_pago": [
+      "Bank Transfer",
+      "Davivienda S.A",
+      "BBVA",
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.09,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sd9510dfcdab33eeebcb14172fd743bc9",
+    "reputacion": "99.70%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDC",
+    "fiat": "COP",
     "precio": 4020.9,
     "min": 200000,
     "max": 13000000,
@@ -58,49 +101,6 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s69acb34a7b243904a329fe1350cd696f",
     "reputacion": "99.90%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDC",
-    "fiat": "COP",
-    "precio": 4026.0,
-    "min": 45000,
-    "max": 11800000,
-    "nickname": "quinterosoluciones",
-    "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A",
-      "Daviplata"
-    ],
-    "operable": true,
-    "comision_aprox": 32.21,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s37f16e5d3d093772a182a60047944695",
-    "reputacion": "88.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDC",
-    "fiat": "COP",
-    "precio": 4028.0,
-    "min": 33600,
-    "max": 535000,
-    "nickname": "SEGURIDAD-14",
-    "metodos_pago": [
-      "Daviplata",
-      "Davivienda S.A",
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.22,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s9a82ee0dc3833a38bcc799c64cbbc94a",
-    "reputacion": "98.00%"
   },
   {
     "exchange": "Binance",
