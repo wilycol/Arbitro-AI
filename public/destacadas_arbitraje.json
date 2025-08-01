@@ -64,7 +64,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4076.62,
+    "precio": 4075.36,
     "min": 100000,
     "max": 60000000,
     "nickname": "Lifestylemarketer",
@@ -73,7 +73,7 @@
       "Bancolombia S.A"
     ],
     "operable": true,
-    "comision_aprox": 32.61,
+    "comision_aprox": 32.6,
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s321e7dc4be993eca880f4cc5426c28bc",
