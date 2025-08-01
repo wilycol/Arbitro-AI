@@ -183,19 +183,21 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4096.0,
-    "min": 700000,
-    "max": 84000000,
-    "nickname": "Coin_Trader07",
+    "precio": 4097.99,
+    "min": 500000,
+    "max": 66000000,
+    "nickname": "DON_TITO",
     "metodos_pago": [
+      "Davivienda S.A",
+      "Nequi",
       "Bancolombia S.A",
-      "Nequi"
+      "BBVA"
     ],
     "operable": true,
-    "comision_aprox": 32.77,
+    "comision_aprox": 32.78,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s4b73cde5836b307faa45d9d609ec0592",
-    "reputacion": "99.50%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s78b02e0abe053dc786446aa2b5dd5944",
+    "reputacion": "99.20%"
   }
 ]
