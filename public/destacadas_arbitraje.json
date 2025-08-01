@@ -4,25 +4,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4086.57,
-    "min": 500000,
-    "max": 50000000,
-    "nickname": "CRIPTO-BLUE",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.69,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s48a076cf3ef73f2caa2eff76a6e6db69",
-    "reputacion": "99.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4086.6,
     "min": 50000,
     "max": 250000,
@@ -62,7 +43,26 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4086.74,
+    "precio": 4087.2,
+    "min": 1500000,
+    "max": 7000000,
+    "nickname": "COVENANTPRO",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.7,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s67b57d2744243cedb064e01b328c2d59",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4087.22,
     "min": 1000000,
     "max": 10000000,
     "nickname": "ColTrustCorp",
@@ -71,7 +71,7 @@
       "Nequi"
     ],
     "operable": true,
-    "comision_aprox": 32.69,
+    "comision_aprox": 32.7,
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s15bc5d26b14d3cf890c6073e9db3e371",
@@ -82,19 +82,19 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4086.74,
-    "min": 1500000,
-    "max": 7000000,
-    "nickname": "COVENANTPRO",
+    "precio": 4087.23,
+    "min": 1000000,
+    "max": 50000000,
+    "nickname": "wemz17",
     "metodos_pago": [
       "Nequi"
     ],
     "operable": true,
-    "comision_aprox": 32.69,
+    "comision_aprox": 32.7,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s67b57d2744243cedb064e01b328c2d59",
-    "reputacion": "100.00%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb02b1875087f32ffb53ffa4aba63e634",
+    "reputacion": "99.70%"
   },
   {
     "exchange": "Binance",
