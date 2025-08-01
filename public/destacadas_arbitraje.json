@@ -6,11 +6,11 @@
     "fiat": "COP",
     "precio": 4061.11,
     "min": 400000,
-    "max": 4200000,
+    "max": 5000000,
     "nickname": "CAMBIOS_DC",
     "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
+      "Bancolombia S.A",
+      "Nequi"
     ],
     "operable": true,
     "comision_aprox": 32.49,
@@ -24,7 +24,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4062.47,
+    "precio": 4062.25,
     "min": 35000,
     "max": 3000000,
     "nickname": "SafeMoney_Col",
@@ -44,7 +44,27 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4064.35,
+    "precio": 4063.98,
+    "min": 35000,
+    "max": 1000000,
+    "nickname": "Lilo_BTC",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.51,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s36c0cbcf481a333baa495c93998b1feb",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4063.98,
     "min": 45000,
     "max": 1500000,
     "nickname": "SS_CRIPTO",
@@ -58,26 +78,6 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sddda1e172e3938fa93ed839ef96aba6b",
     "reputacion": "95.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4064.56,
-    "min": 35000,
-    "max": 1000000,
-    "nickname": "Lilo_BTC",
-    "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.52,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s36c0cbcf481a333baa495c93998b1feb",
-    "reputacion": "100.00%"
   },
   {
     "exchange": "Binance",
@@ -125,7 +125,7 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4185.71,
+    "precio": 4185.73,
     "min": 45000,
     "max": 1500000,
     "nickname": "AlejandroIbague",
