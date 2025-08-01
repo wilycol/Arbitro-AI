@@ -4,66 +4,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4047.0,
-    "min": 300000,
-    "max": 13000000,
-    "nickname": "fabricio",
-    "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.38,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf9ee1e4d9da93dcd82b85f62377d6b72",
-    "reputacion": "100.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4047.01,
-    "min": 5000000,
-    "max": 50000000,
-    "nickname": "CRIPTO-BLUE",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.38,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s48a076cf3ef73f2caa2eff76a6e6db69",
-    "reputacion": "99.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4047.12,
-    "min": 70000,
-    "max": 6000000,
-    "nickname": "Tuapp-Cripto",
-    "metodos_pago": [
-      "Daviplata",
-      "Nequi",
-      "Davivienda S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.38,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0f11e0f3fb29343dadbea0ba0a886e5b",
-    "reputacion": "99.30%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4047.15,
     "min": 800000,
     "max": 6000000,
@@ -99,23 +39,64 @@
   },
   {
     "exchange": "Binance",
-    "tipo": "SELL",
+    "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4094.0,
-    "min": 100000,
-    "max": 13000000,
-    "nickname": "AdrianaBTC",
+    "precio": 4048.01,
+    "min": 10000000,
+    "max": 50000000,
+    "nickname": "wemz17",
     "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.38,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb02b1875087f32ffb53ffa4aba63e634",
+    "reputacion": "99.70%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4048.02,
+    "min": 2500000,
+    "max": 40000000,
+    "nickname": "ϾryptoExchange®™",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.38,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s7cebd69d07a43750bffd277c9bf65371",
+    "reputacion": "98.40%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4049.0,
+    "min": 33600,
+    "max": 3971000,
+    "nickname": "Logan",
+    "metodos_pago": [
+      "Davivienda S.A",
       "Nequi",
+      "Movii",
+      "Daviplata",
       "Bancolombia S.A"
     ],
     "operable": true,
-    "comision_aprox": 32.75,
+    "comision_aprox": 32.39,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb3eebbdf9071386aae2f4fad2e7ce2f8",
-    "reputacion": "100.00%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sc5bc18211eda34429afce49bd8fe1a80",
+    "reputacion": "90.40%"
   },
   {
     "exchange": "Binance",
@@ -196,5 +177,25 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s477791432e533b248f0931e593c5c15d",
     "reputacion": "99.30%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4092.9,
+    "min": 150000,
+    "max": 7000000,
+    "nickname": "FinanzasJen10",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.74,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s70428b49f65b312d8e768962bd408053",
+    "reputacion": "100.00%"
   }
 ]
