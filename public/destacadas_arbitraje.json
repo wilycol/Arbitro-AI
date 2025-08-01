@@ -64,26 +64,6 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4077.01,
-    "min": 1000000,
-    "max": 35650000,
-    "nickname": "CRYPTO-BUCARAMANGA",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.62,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s97e22771170a36a7988053222ce07a75",
-    "reputacion": "99.80%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
     "precio": 4078.0,
     "min": 200000,
     "max": 50000000,
@@ -101,23 +81,23 @@
   },
   {
     "exchange": "Binance",
-    "tipo": "SELL",
+    "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4150.0,
-    "min": 45000,
-    "max": 800000,
-    "nickname": "DEVSUAREZ",
+    "precio": 4078.09,
+    "min": 800000,
+    "max": 50000000,
+    "nickname": "CHIVATA-COIN",
     "metodos_pago": [
       "Nequi",
       "Bancolombia S.A"
     ],
     "operable": true,
-    "comision_aprox": 33.2,
+    "comision_aprox": 32.62,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s3bff2ec56ada3b5d9467961c05eba436",
-    "reputacion": "93.80%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s8b96169f40dc3affac673261a385ec1c",
+    "reputacion": "97.80%"
   },
   {
     "exchange": "Binance",
@@ -166,7 +146,26 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4143.98,
+    "precio": 4143.0,
+    "min": 50000,
+    "max": 15000000,
+    "nickname": "CRYPTO-BUCARAMANGA",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 33.14,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s97e22771170a36a7988053222ce07a75",
+    "reputacion": "99.80%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4142.99,
     "min": 50000,
     "max": 13000000,
     "nickname": "sebastianlorenzen",
@@ -174,7 +173,7 @@
       "Nequi"
     ],
     "operable": true,
-    "comision_aprox": 33.15,
+    "comision_aprox": 33.14,
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=saad94300b492364b88f8a57136da0d33",
