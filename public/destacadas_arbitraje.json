@@ -63,6 +63,27 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4047.12,
+    "min": 70000,
+    "max": 6000000,
+    "nickname": "Tuapp-Cripto",
+    "metodos_pago": [
+      "Daviplata",
+      "Nequi",
+      "Davivienda S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.38,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0f11e0f3fb29343dadbea0ba0a886e5b",
+    "reputacion": "99.30%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4047.15,
     "min": 800000,
     "max": 6000000,
@@ -79,22 +100,22 @@
   },
   {
     "exchange": "Binance",
-    "tipo": "BUY",
+    "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4047.59,
-    "min": 2500000,
-    "max": 40000000,
-    "nickname": "ϾryptoExchange®™",
+    "precio": 4093.9,
+    "min": 300000,
+    "max": 13000000,
+    "nickname": "VALERI_CRIPTO",
     "metodos_pago": [
       "Nequi"
     ],
     "operable": true,
-    "comision_aprox": 32.38,
+    "comision_aprox": 32.75,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s7cebd69d07a43750bffd277c9bf65371",
-    "reputacion": "98.40%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s7a4c18688d37332aa75ac15ea8bbabd9",
+    "reputacion": "99.90%"
   },
   {
     "exchange": "Binance",
@@ -120,18 +141,21 @@
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4092.87,
-    "min": 8400,
+    "precio": 4092.9,
+    "min": 49000,
     "max": 2000000,
-    "nickname": "WILSON-cripto-seguro",
+    "nickname": "Morrachon_CyR",
     "metodos_pago": [
-      "Nequi"
+      "Bancolombia S.A",
+      "Davivienda S.A",
+      "Nequi",
+      "Banco Falabella"
     ],
     "operable": true,
     "comision_aprox": 32.74,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s6f4d51c939b63d3aae0f3ca9eb9a350d",
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sd3723ef567573f6b95466d95dd7a4dc0",
     "reputacion": "100.00%"
   },
   {
@@ -176,24 +200,5 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s0660c89be67a3f1a9b27acc8c38731ae",
     "reputacion": "98.70%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4092.8,
-    "min": 100000,
-    "max": 6000000,
-    "nickname": "Thekingofp2p",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.74,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sd2d98e750c2c3a42a4119fa66dc344e2",
-    "reputacion": "99.90%"
   }
 ]
