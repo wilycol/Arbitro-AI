@@ -4,6 +4,44 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4086.43,
+    "min": 2000000,
+    "max": 50000000,
+    "nickname": "CRIPTO-BLUE",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.69,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s48a076cf3ef73f2caa2eff76a6e6db69",
+    "reputacion": "99.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4086.5,
+    "min": 35000,
+    "max": 400000,
+    "nickname": "Ferxxotrading",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.69,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=se24e317d9c6c38a3a159b0a0e7cbdebc",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4088.0,
     "min": 40000,
     "max": 14308000,
@@ -58,46 +96,6 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s9c8a76e3bdc137f0bca58c8bd8398266",
     "reputacion": "98.30%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4089.01,
-    "min": 50000,
-    "max": 500000,
-    "nickname": "SPIDER-COIN",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.71,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf9afea9025cb369da046c19443bf1842",
-    "reputacion": "90.40%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4089.03,
-    "min": 50000,
-    "max": 2000000,
-    "nickname": "DETIK_7",
-    "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.71,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s8bddc344506f37bf9fe4051b3cbd8cd8",
-    "reputacion": "97.90%"
   },
   {
     "exchange": "Binance",
