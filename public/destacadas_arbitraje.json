@@ -4,6 +4,45 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4040.0,
+    "min": 33600,
+    "max": 200000,
+    "nickname": "P2P-Jorge_",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.32,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s1d0ddd54697935698b7dec7d7e81ec8e",
+    "reputacion": "94.30%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4040.15,
+    "min": 35000,
+    "max": 100000,
+    "nickname": "alye735",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.32,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s08339419a99c34098dd0e25a8341532f",
+    "reputacion": "98.50%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4040.99,
     "min": 45000,
     "max": 800000,
@@ -58,46 +97,6 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s21d5c4dd475b36c18b4992d562dd66c4",
     "reputacion": "99.70%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4042.0,
-    "min": 100000,
-    "max": 6400000,
-    "nickname": "isaacbaroncoder",
-    "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.34,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s8003afc6444a377c9a2a0189e38b5ed0",
-    "reputacion": "99.30%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4045.6,
-    "min": 38000,
-    "max": 2400000,
-    "nickname": "Solo-efect-corrspon",
-    "metodos_pago": [
-      "Nequi",
-      "Cash Deposit to Bank"
-    ],
-    "operable": true,
-    "comision_aprox": 32.36,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=seb48eade56c63a30a659f60430696b20",
-    "reputacion": "94.60%"
   },
   {
     "exchange": "Binance",
