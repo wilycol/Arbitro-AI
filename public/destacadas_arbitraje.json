@@ -4,20 +4,19 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4039.15,
-    "min": 33600,
-    "max": 500000,
-    "nickname": "DZeta14",
+    "precio": 4039.0,
+    "min": 400000,
+    "max": 1570000,
+    "nickname": "criptoAY",
     "metodos_pago": [
-      "Bancolombia S.A",
       "Nequi"
     ],
     "operable": true,
     "comision_aprox": 32.31,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s5732ee83b0753311bc0d562a93e328b6",
-    "reputacion": "99.70%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s81782f01e5ee36869b9fac3c278a7ff6",
+    "reputacion": "87.50%"
   },
   {
     "exchange": "Binance",
@@ -44,10 +43,10 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4040.51,
-    "min": 37500,
-    "max": 626800,
-    "nickname": "Pepeguer",
+    "precio": 4040.61,
+    "min": 33600,
+    "max": 500000,
+    "nickname": "DZeta14",
     "metodos_pago": [
       "Bancolombia S.A",
       "Nequi"
@@ -56,8 +55,8 @@
     "comision_aprox": 32.32,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf6458c36973330abaca7a7e98ad9eaf9",
-    "reputacion": "98.20%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s5732ee83b0753311bc0d562a93e328b6",
+    "reputacion": "99.70%"
   },
   {
     "exchange": "Binance",
