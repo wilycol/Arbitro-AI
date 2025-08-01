@@ -4,6 +4,26 @@
     "tipo": "BUY",
     "cripto": "USDC",
     "fiat": "COP",
+    "precio": 4004.49,
+    "min": 45000,
+    "max": 1500000,
+    "nickname": "SS_CRIPTO",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.04,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sddda1e172e3938fa93ed839ef96aba6b",
+    "reputacion": "94.70%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDC",
+    "fiat": "COP",
     "precio": 4008.5,
     "min": 90001,
     "max": 45000000,
@@ -85,26 +105,6 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sd9510dfcdab33eeebcb14172fd743bc9",
     "reputacion": "99.70%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDC",
-    "fiat": "COP",
-    "precio": 4020.9,
-    "min": 200000,
-    "max": 13000000,
-    "nickname": "AdrianaBTC",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 32.17,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb3eebbdf9071386aae2f4fad2e7ce2f8",
-    "reputacion": "100.00%"
   },
   {
     "exchange": "Binance",
