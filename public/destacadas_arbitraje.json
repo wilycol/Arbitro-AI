@@ -4,43 +4,20 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4037.33,
+    "precio": 4039.64,
     "min": 33600,
-    "max": 770000,
-    "nickname": "SierraAI",
+    "max": 500000,
+    "nickname": "DZeta14",
     "metodos_pago": [
       "Bancolombia S.A",
       "Nequi"
     ],
     "operable": true,
-    "comision_aprox": 32.3,
+    "comision_aprox": 32.32,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sa18c802ba58e39abb44256141cb9095d",
-    "reputacion": "92.80%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4038.0,
-    "min": 33600,
-    "max": 3971000,
-    "nickname": "Logan",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Daviplata",
-      "Movii",
-      "Nequi",
-      "Davivienda S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.3,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sc5bc18211eda34429afce49bd8fe1a80",
-    "reputacion": "90.10%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s5732ee83b0753311bc0d562a93e328b6",
+    "reputacion": "99.70%"
   },
   {
     "exchange": "Binance",
@@ -104,6 +81,64 @@
   },
   {
     "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4041.1,
+    "min": 900000,
+    "max": 11436000,
+    "nickname": "awakeelectron",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.33,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sb5d4fe6a947436a59f2a775c849744a9",
+    "reputacion": "94.90%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4080.0,
+    "min": 2000000,
+    "max": 42000000,
+    "nickname": "COMERCIANTE0",
+    "metodos_pago": [
+      "Bancolombia S.A",
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.64,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sf2b10d2256a3396db1bb109c998d4f95",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "SELL",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4079.99,
+    "min": 45000,
+    "max": 40000000,
+    "nickname": "tuagenciadeconfianza",
+    "metodos_pago": [
+      "Nequi"
+    ],
+    "operable": true,
+    "comision_aprox": 32.64,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sdee646c905e835038936603b7054956e",
+    "reputacion": "100.00%"
+  },
+  {
+    "exchange": "Binance",
     "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
@@ -160,48 +195,5 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s3b9a226d5d5d3fc793e542385660bbc8",
     "reputacion": "100.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4078.86,
-    "min": 500000,
-    "max": 30000000,
-    "nickname": "TUTRADER",
-    "metodos_pago": [
-      "Bancolombia S.A",
-      "Nequi",
-      "Davivienda S.A",
-      "Daviplata"
-    ],
-    "operable": true,
-    "comision_aprox": 32.63,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s9fcd5242c92235248e7e525d7113d673",
-    "reputacion": "99.80%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4078.48,
-    "min": 45000,
-    "max": 800000,
-    "nickname": "Luzdy",
-    "metodos_pago": [
-      "Nequi",
-      "Scotiabank Colpatria",
-      "Uala"
-    ],
-    "operable": true,
-    "comision_aprox": 32.63,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sdf3410ec27dc3ac2be4498b438ae42b8",
-    "reputacion": "85.50%"
   }
 ]
