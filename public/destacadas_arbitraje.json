@@ -4,7 +4,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4064.3,
+    "precio": 4064.22,
     "min": 35000,
     "max": 1000000,
     "nickname": "Lilo_BTC",
@@ -24,7 +24,7 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4064.3,
+    "precio": 4064.22,
     "min": 45000,
     "max": 1500000,
     "nickname": "SS_CRIPTO",
@@ -38,6 +38,26 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sddda1e172e3938fa93ed839ef96aba6b",
     "reputacion": "95.00%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
+    "precio": 4065.0,
+    "min": 400000,
+    "max": 4500000,
+    "nickname": "CAMBIOS_DC",
+    "metodos_pago": [
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.52,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s21fc73709a1639e289b1b75fb13a818a",
+    "reputacion": "100.00%"
   },
   {
     "exchange": "Binance",
@@ -81,23 +101,24 @@
   },
   {
     "exchange": "Binance",
-    "tipo": "BUY",
+    "tipo": "SELL",
     "cripto": "USDT",
     "fiat": "COP",
-    "precio": 4070.0,
-    "min": 33600,
-    "max": 418000,
-    "nickname": "Criptos2003",
+    "precio": 4170.0,
+    "min": 8400,
+    "max": 30000000,
+    "nickname": "EdHeRoMo-Trader",
     "metodos_pago": [
+      "Bank Transfer",
       "Nequi",
       "Bancolombia S.A"
     ],
     "operable": true,
-    "comision_aprox": 32.56,
+    "comision_aprox": 33.36,
     "brecha": 0.0,
     "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s11c2c388bf0e3ac99fdce5787d26d2f3",
-    "reputacion": "90.40%"
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sab674b73524033a0a7d4df94edd1cb1c",
+    "reputacion": "98.50%"
   },
   {
     "exchange": "Binance",
@@ -176,24 +197,5 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sd954c62a4af13d74b67191f320e015c0",
     "reputacion": "99.00%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "SELL",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4149.99,
-    "min": 8400,
-    "max": 13000000,
-    "nickname": "sebastianlorenzen",
-    "metodos_pago": [
-      "Nequi"
-    ],
-    "operable": true,
-    "comision_aprox": 33.2,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=saad94300b492364b88f8a57136da0d33",
-    "reputacion": "95.80%"
   }
 ]
