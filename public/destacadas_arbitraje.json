@@ -4,6 +4,27 @@
     "tipo": "BUY",
     "cripto": "USDT",
     "fiat": "COP",
+    "precio": 4040.0,
+    "min": 800000,
+    "max": 20000000,
+    "nickname": "Depanita",
+    "metodos_pago": [
+      "Scotiabank Colpatria",
+      "Nequi",
+      "Bancolombia S.A"
+    ],
+    "operable": true,
+    "comision_aprox": 32.32,
+    "brecha": 0.0,
+    "prioridad": 1,
+    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s5852a186cd7439a9a9bbcca4116c56e0",
+    "reputacion": "87.10%"
+  },
+  {
+    "exchange": "Binance",
+    "tipo": "BUY",
+    "cripto": "USDT",
+    "fiat": "COP",
     "precio": 4040.01,
     "min": 34000,
     "max": 200000,
@@ -17,7 +38,7 @@
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s8de8cad27bf832b79934946bf18aad91",
-    "reputacion": "100.00%"
+    "reputacion": "66.70%"
   },
   {
     "exchange": "Binance",
@@ -37,7 +58,7 @@
     "brecha": 0.0,
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=sdf3410ec27dc3ac2be4498b438ae42b8",
-    "reputacion": "85.90%"
+    "reputacion": "85.20%"
   },
   {
     "exchange": "Binance",
@@ -77,26 +98,6 @@
     "prioridad": 1,
     "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=se872e4f9d6223bb1ac4b2719246a764d",
     "reputacion": "97.80%"
-  },
-  {
-    "exchange": "Binance",
-    "tipo": "BUY",
-    "cripto": "USDT",
-    "fiat": "COP",
-    "precio": 4042.2,
-    "min": 500000,
-    "max": 7020000,
-    "nickname": "Coin_futurejdm",
-    "metodos_pago": [
-      "Nequi",
-      "Bancolombia S.A"
-    ],
-    "operable": true,
-    "comision_aprox": 32.34,
-    "brecha": 0.0,
-    "prioridad": 1,
-    "link": "https://p2p.binance.com/en/advertiserDetail?advertiserNo=s762a5fe895363121ad79384e456398ef",
-    "reputacion": "98.90%"
   },
   {
     "exchange": "Binance",
